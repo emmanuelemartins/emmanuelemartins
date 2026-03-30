@@ -1,9 +1,7 @@
-<h1 align="center">Olá! Eu sou Emmanuele Martins</h1>
+## Olá! Eu sou Emmanuele Martins
 
-<p align="center">
-  💻 Estudante de programação <br>
+  💻 Estudante de programação
   🚀 Focada em me tornar Full Stack Developer
-</p>
 
 ---
 
