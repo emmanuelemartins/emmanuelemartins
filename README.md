@@ -1,11 +1,15 @@
 ## Olá! Eu sou Emmanuele Martins
 
-  💻 Estudante de programação
-  🚀 Focada em me tornar Full Stack Developer
+  -Estudante de programação
+  
+  -Focada em me tornar Full Stack Developer
 
 ---
+<div>
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+</div>
 
-### 🌐 Redes sociais
+---
 
 <div>
   <a href="https://www.instagram.com/manuu.christine?igsh=MXh6bTZnendtenZpbQ==" target="_blank">
@@ -21,19 +25,5 @@
   </a>
 </div>
 
----
 
-### 📊 Estatísticas
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmanuelemartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelemartins&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
----
-
-### 🛠️ Tecnologias que estou aprendendo
-
-<div>
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div>
