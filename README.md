@@ -2,7 +2,7 @@
 
   -Estudante de programação
   
-  -Focada em me tornar Full Stack Developer
+  -Focada em me tornar desenvolvedora Front-end
 
 ---
 <div>
